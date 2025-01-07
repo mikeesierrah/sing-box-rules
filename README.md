@@ -1,1 +1,1 @@
-# template-repo
+Yet another sing-box ruleset repo
